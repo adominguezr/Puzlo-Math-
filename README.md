@@ -12,21 +12,23 @@ Queremos que cualquier persona, en cualquier parte del mundo, pueda descargar un
 ---
 
 ## 💡 El gran reto que resolvemos juntos
-Para muchas personas, el aprendizaje tradicional basado solo en libros y hojas de papel representa una gran barrera. 
+Para muchas personas, el aprendizaje tradicional basado solo en memorizar números, fórmulas abstractas y hojas de papel representa una gran barrera.
 
 **Con Puzlo Math + buscamos:**
-- 🧠 **Romper barreras de aprendizaje:** Crear herramientas pensadas especialmente para la **comunidad neurodivergente** (Autismo, TDAH, Discalculia, Dislexia), aprovechando el aprendizaje físico y sensorial.
-- 🖐️ **Conectar mente y manos:** Hacer que los conceptos matemáticos cobren vida físicamente a través del tacto y el juego.
+- 🧩 **Hacer fácil lo complicado:** Transformar conceptos matemáticos abstractos y difíciles en piezas físicas, juegos y experiencias táctiles intuitivas para quienes sufren con la enseñanza tradicional.
+- 🧠 **Romper barreras de aprendizaje:** Crear herramientas pensadas para la **comunidad neurodivergente** (Autismo, TDAH, Discalculia, Dislexia) y para cualquier persona que aprenda mejor manipulando objetos con las manos.
+- 🖐️ **Conectar mente y manos:** Hacer que las cantidades y relaciones matemáticas cobren vida físicamente a través del tacto y el encaje.
 - 🔓 **Hacer la educación accesible:** Sustituir los costosos kits comerciales por modelos 3D abiertos, libres y adaptables que cualquiera pueda fabricar localmente.
 
 ---
 
 ## 🎯 ¿Para quién es este proyecto?
 ¡Este proyecto es para todo el mundo! En especial para:
-- 👧👦 **Estudiantes y peques:** Que aprenden mejor tocando y jugando que memorizando números.
-- 🧩 **Personas neurodivergentes:** Que se benefician de estímulos táctiles estructurados para comprender cantidades y relaciones.
-- 👩‍🏫👨‍🏫 **Educadores, terapeutas y familias:** Que buscan herramientas inclusivas, personalizables y listas para imprimir.
-- 🛠️ **Makers y diseñadores 3D:** ¡Ustedes son el motor! Quienes transforman grandes ideas pedagógicas en archivos STL increíbles.
+- 🙋‍♂️ **Quienes sienten que las matemáticas son complicadas:** Personas que aprenden mejor viendo y tocando los conceptos que intentando memorizarlos en un cuaderno.
+- 👧👦 **Estudiantes y peques:** Que comprenden mejor las cantidades jugando y construyendo que con métodos abstractos.
+- 🧩 **Personas neurodivergentes:** Que se benefician de estímulos táctiles estructurados para razonar numéricamente con claridad.
+- 👩‍🏫👨‍🏫 **Educadores, terapeutas y familias:** Que buscan herramientas inclusivas, didácticas y listas para imprimir.
+- 🛠️ **Makers y diseñadores 3D:** ¡Ustedes son el motor! Quienes transforman ideas pedagógicas en archivos STL increíbles.
 
 ---
 
