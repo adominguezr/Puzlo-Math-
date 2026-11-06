@@ -1,30 +1,50 @@
+# Guía para Colaborar en Puzlo Math + 🤝✨
 
-# Guía para Colaborar en Puzlo Math + 🤝
-
-¡Gracias por sumar tus ideas a **Puzlo Math +**! Queremos que cualquier maker, diseñador 3D, educador o terapeuta pueda aportar creando o mejorando materiales didácticos.
+¡Nos alegra muchísimo que quieras sumar tus ideas a **Puzlo Math +**! Queremos que cualquier maker, diseñador 3D, educador o terapeuta pueda aportar creando, adaptando o probando materiales didácticos táctiles.
 
 ---
 
 ## 💡 ¿Cómo puedes aportar?
 
-1. **Diseñando un nuevo tablero o puzzle:**
-   - Diseña un tablero base (ej. Ten Frames, cuadrículas para gráficas, plano cartesiano) o rompecabezas inédito para trabajar conceptos de sumas, restas, fracciones, coordenadas o lógica.
-   - Sube tanto el archivo fuente editable (`.FCStd`, `.scad`, `.blend`, enlace a Tinkercad) como el archivo final listo para imprimir (`.STL` o `.3MF`).
+1. **Diseñando o aportando modelos 3D:**
+   - Crea un nuevo tablero base (como *Ten Frames*, cuadrículas para gráficas o plano cartesiano), rompecabezas de fracciones o fichas manipulables.
+   - Envía tanto tus archivos editables como los listos para imprimir utilizando **únicamente las extensiones permitidas**.
 
-2. **Mejorando o variando un diseño existente:**
-   - Añade texturas táctiles (Braille, relieve, formas geométricas) a fichas o cuadrículas existentes.
-   - Ajusta tolerancias para diferentes tipos de impresoras 3D.
+2. **Creando guías de ensamblaje e instrucciones:**
+   - Documenta cómo armar, usar o imprimir un kit de tableros y fichas mediante esquemas o diagramas visuales.
 
-3. **Validando e imprimiendo:**
-   - Descarga modelos del repositorio, imprímelos en casa o en tu makerspace y reporta los resultados de encaje y usabilidad en un Issue.
+3. **Validando e imprimiendo físicamente:**
+   - Descarga modelos del repositorio, agrégalos a tu impresora 3D y reporta en un *Issue* los resultados de encaje, tolerancias y accesibilidad.
 
-4. **Aportando desde la educación y neurodiversidad:**
-   - Sugiere en los Issues nuevas dinámicas didácticas o adaptaciones de accesibilidad cognitiva y sensorial.
+4. **Aportando desde la pedagogía:**
+   - Propón en los *Issues* adaptaciones sensoriales, nuevas dinámicas didácticas o mejoras de accesibilidad cognitiva.
 
 ---
 
-## 📌 Reglas para enviar archivos 3D
+## 📦 Formatos de archivos admitidos
 
-- **Licencia abierta:** Todo aporte enviado se publicará bajo licencia libre (CC BY-SA 4.0 / MIT).
-- **Formatos:** Todo modelo 3D debe incluir su formato editable fuente, no solo el `.STL`.
-- **Verificación:** Marca siempre en la descripción de tu Pull Request si el modelo **ya fue impreso y probado físicamente** o si está **pendiente de verificación de tolerancias**.
+Para mantener el repositorio organizado y garantizar que todos puedan editar e imprimir los modelos, **únicamente admitimos los siguientes formatos**:
+
+### 🛠️ Archivos de Modelado 3D y Fabricación:
+- **.blend** (Archivo fuente de Blender)
+- **.stl** (Archivo estándar listo para segmentar e imprimir en 3D)
+- **.obj** (Geometría 3D universal)
+- **.fbx** (Formato 3D intercambiable)
+- **.3mf** (Formato de impresión 3D avanzado con datos de color y calibración)
+- **.step** (Formato CAD estándar de alta precisión e intercambio)
+
+### 📐 Guías de Ensamblaje e Instrucciones:
+- **.pdf** (Documentos de lectura e instrucciones paso a paso)
+- **.dwg** (Planos técnicos y esquemas de ensamblaje CAD)
+
+> ⚠️ **Importante:** Por favor, no subas archivos en formatos distintos a los listados arriba para evitar incompatibilidades en la comunidad.
+
+---
+
+## 📌 Pasos para enviar tu contribución (Pull Request)
+
+1. **Haz un Fork** de este repositorio y crea una rama (*branch*) para tu diseño (ej. `feature/tablero-graficas`).
+2. **Guarda tus archivos** en la carpeta correspondiente (`/tableros`, `/puzzles`, `/fichas` o `/docs`).
+3. Asegúrate de incluir tanto el archivo fuente editable (`.blend` o `.step`) como el ejecutable para impresión (`.stl` o `.3mf`).
+4. **Verificación explícita:** En la descripción de tu *Pull Request*, indica si el modelo **ya fue impreso y probado físicamente** (detallando la tolerancia de encaje usada, por ejemplo 0.2 mm - 0.4 mm) o si se encuentra **pendiente de verificación por la comunidad**.
+5. ¡Envía tu *Pull Request* y celebra! La comunidad lo revisará y probará muy pronto. 🚀✨
