@@ -1,5 +1,3 @@
-# Puzlo-Math-
-🧩 Sistemas maker modulares de fichas didácticas impreso en 3D para el aprendizaje táctil e intuitivo de las matemáticas. Diseñado para la inclusión de personas neurodivergentes (autismo, TDAH, discalculia). 🚀
 # Puzlo Math + 🧩
 
 **Puzlo Math +** es una plataforma maker de impacto social dedicada a crear un repositorio abierto de **tableros y rompecabezas táctiles impresos en 3D**. Nuestro objetivo es facilitar el aprendizaje intuitivo de las matemáticas para niños y adultos, con especial enfoque en la inclusión de personas neurodivergentes (autismo, TDAH, discalculia, dislexia, etc.).
