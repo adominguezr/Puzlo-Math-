@@ -31,7 +31,7 @@ Para muchas personas, el aprendizaje tradicional basado solo en libros y hojas d
 ---
 
 ## 🌱 ¿Cómo nació esta idea?
-¡Nació del amor por la inclusión y la cultura maker! Observando el increíble impacto de herramientas físicas como los marcos de 10 (*Ten Frames*) y las fichas táctiles, nos dimos cuenta de que la impresión 3D nos da el poder de llevar estas soluciones a cada rincón. Así surgió la idea de crear una biblioteca abierta donde la creatividad comunitaria impulse la educación inclusiva.
+¡Nació del amor por la inclusión y la cultura maker! Observando el increíble impacto de herramientas físicas como los puzzles, ábacos y las fichas táctiles, nos dimos cuenta de que la impresión 3D nos da el poder de llevar estas soluciones a cada rincón. Así surgió la idea de crear una biblioteca abierta donde la creatividad comunitaria impulse la educación inclusiva y una forma fácil de aprender matemáticas, sin que se vuelva una pesadilla.
 
 ---
 
